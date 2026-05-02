@@ -10,7 +10,7 @@ setup(
     long_description=(BASE_DIR / "README.md").read_text(encoding="utf-8"),
     long_description_content_type="text/markdown",
     author="emresvd",
-    url="https://github.com/emresvd/funcbygpt",
+    url="https://github.com/Nabeel-Farooq/funcbygpt",
     license="MIT",
 
     packages=find_packages(exclude=("tests", "docs")),
